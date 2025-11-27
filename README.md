@@ -1,23 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Olexandr;I+am+a+passionate+Fullstack+Developer.)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td>
+---
 
-I'm a Fullstack Dev who loves crafting cool, fast, and scalable web apps.  
-Mostly jamming with JavaScript, TypeScript, and React on the frontend, and rocking Python frameworks on the backend.  
-Always hyped to learn new tech and level up my skills every single day.  
+I love exploring new technologies, coding cool projects, and listening to music while I work.  
+Right now, I'm diving deep into TypeScript and leveling up my skills every day.
 
-I enjoy learning new stuff, vibing to music while coding, and right now I'm diving deep into TypeScript and FastAPI.
-
-    </td>
-    <td width="150" align="right">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello GIF" width="120" />
-
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello GIF" width="120" />
+</p>
 
 ---
 
