@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img src="https://tenor.com/ru/view/cat-work-in-progress-progress-gif-12414022723702546030" alt="Cat"></img>
+<img align="right" "src="https://tenor.com/ru/view/cat-work-in-progress-progress-gif-12414022723702546030" alt="Cat"></img>
 
 <div align="left" style="display: flex; align-items: center; justify-content: space-between; max-width: 600px; margin: auto;">
   <p style="margin: 0; padding-right: 20px; flex: 1;">
