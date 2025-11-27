@@ -16,9 +16,9 @@
   </p>
 </div>
 
-<br>
-<br>
-<br>
+<br></br>
+<br></br>
+<br></br>
 
 <div align="center" style="max-width: 600px;">
   <h3>My Stack:</h3>
