@@ -60,7 +60,6 @@
 </div>
 
 <div style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2); max-width: 650px; margin: auto;">
-  <h2 style="color:#E4EFFD; text-align: center; margin-bottom: 10px;">Contributions graph</h2>
   <img 
     alt="GitHub Contributions Graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2140&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=E4EFFD&hide_border=true" 
