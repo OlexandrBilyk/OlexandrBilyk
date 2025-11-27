@@ -6,18 +6,18 @@
   </a>
 </h1>
 
-<div align="center" style="max-width: 600px;">
-
-  <p>
+<div style="display: flex; align-items: center; justify-content: space-between; max-width: 600px; margin: auto;">
+  <p style="margin: 0; padding-right: 20px; flex: 1;">
     I enjoy coding cool projects, listening to music while working, and leveling up my skills every day.<br>
     Currently diving deep into <b>TypeScript</b> and <b>FastAPI</b>.
   </p>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Naruto GIF" width="120" style="border-radius: 8px;" />
+</div>
 
-<br><br>
+<br>
 
-  
-  <h3 align="center">My Stack:</h3>
-
+<div align="center" style="max-width: 600px;">
+  <h3>My Stack:</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,27 +49,19 @@
   </div>
 </div>
 
-<br><br>
+<br>
 
-<div style="display: flex; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
-
-<div align="center" style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2); max-width: 700px; margin:auto;">
-  <h2 style="color:#E4EFFD; margin-bottom: 20px;">GitHub Stats</h2>
-
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&show_icons=true&theme=radical" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
-  </div>
+<h2>GitHub Stats</h2>
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
 </div>
 
-<br><br>
+<br>
 
-<div style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2); max-width: 650px; margin: auto;">
-  <img 
-    alt="GitHub Contributions Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2140&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=E4EFFD&hide_border=true" 
-    style="display: block; margin: 0 auto;" 
-  />
+<h2>Contributions Graph</h2>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2128&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=85AAF2&hide_border=true" />
 </div>
 
 </center>
