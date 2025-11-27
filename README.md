@@ -58,15 +58,15 @@
 <br>
 
 <h2>GitHub Stats</h2>
-<div>
+<div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&show_icons=true&theme=radical" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
 </div>
 
 <br>
 
-<h2>Contributions Graph</h2>
-<div>
+<h2 align="center">Contributions Graph</h2>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2128&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=85AAF2&hide_border=true" />
 </div>
 
