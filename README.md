@@ -56,11 +56,13 @@
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
   </div>
 
-  <div style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
-    <h2 style="color:#E4EFFD; text-align: center; margin-bottom: 10px;">Contributions graph</h2>
-    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2140&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=E4EFFD&hide_border=true" />
-  </div>
-
+<div style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2); max-width: 650px; margin: auto;">
+  <h2 style="color:#E4EFFD; text-align: center; margin-bottom: 10px;">Contributions graph</h2>
+  <img 
+    alt="GitHub Contributions Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2140&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=E4EFFD&hide_border=true" 
+    style="display: block; margin: 0 auto;" 
+  />
 </div>
 
 </center>
