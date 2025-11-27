@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right"  src="[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1uNGtlNm12Zmd1Mm9pdDNlM3U3cjNuNjE4Y3VwaTdnZmNhaHphciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iGpHt2H22k1orjgT9b/giphy.gif)" alt="Naruto GIF" width="120" style="border-radius: 8px;" />
+<div align="right" class="tenor-gif-embed" data-postid="12414022723702546030" data-share-method="host" data-aspect-ratio="0.955823" data-width="100%"><a href="https://tenor.com/view/cat-work-in-progress-progress-gif-12414022723702546030">Cat Work In Progress GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="left" style="display: flex; align-items: center; justify-content: space-between; max-width: 600px; margin: auto;">
   <p style="margin: 0; padding-right: 20px; flex: 1;">
