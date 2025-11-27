@@ -12,10 +12,6 @@
     I enjoy coding cool projects, listening to music while working, and leveling up my skills every day.<br>
     Currently diving deep into <b>TypeScript</b> and <b>FastAPI</b>.
   </p>
-
-  <table>
-    <tr>
-      <td align="left" valign="top" width="70%">
         <!-- Tech Stack -->
         <h3 align="left">My Stack:</h3>
         <div>
@@ -35,15 +31,6 @@
           <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
           <img alt="DRF" src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
         </div>
-      </td>
-
-      <td align="right" valign="top" width="30%">
-        <!-- GIF -->
-        <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Naruto GIF" width="140" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
-
 </div>
 
 <br><br>
