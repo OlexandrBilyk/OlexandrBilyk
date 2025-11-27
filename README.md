@@ -11,7 +11,8 @@
 
 <div align="left" style="display: flex; align-items: center; justify-content: space-between; max-width: 600px; margin: auto;">
   <p style="margin: 0; padding-right: 20px; flex: 1;">
-    I enjoy coding cool projects, listening to music while working, and leveling up my skills every day.<br>
+    I enjoy coding cool projects, listening to music while working
+    and leveling up my skills every day.<br>
     Currently diving deep into <b>TypeScript</b> and <b>FastAPI</b>.
   </p>
 </div>
