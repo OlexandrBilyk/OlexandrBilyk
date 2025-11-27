@@ -50,7 +50,7 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
 
-  <div style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
+  <div align="center" style="background: #1F2140; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
     <h2 style="color:#E4EFFD; text-align: center; margin-bottom: 10px;">GitHub Stats</h2>
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&show_icons=true&theme=radical" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
