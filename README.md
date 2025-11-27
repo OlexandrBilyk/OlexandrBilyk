@@ -44,13 +44,19 @@
   </div>
 </div>
 
-
 <br><br>
 
 <h2>GitHub Stats</h2>
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&show_icons=true&theme=radical" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
+</div>
+
+<br>
+
+<h2>Contributions graph</h2>
+<div>
+  <img src="https://activity-graph.herokuapp.com/graph?username=OlexandrBilyk&theme=radical" alt="contributions graph" />
 </div>
 
 </center>
