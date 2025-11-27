@@ -1,7 +1,4 @@
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Olexandr;I+am+a+passionate+Fullstack+Developer.)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Olexandr;I+am+a+passionate+Fullstack+Developer.)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -22,7 +19,9 @@ I enjoy learning new stuff, vibing to music while coding, and right now I'm divi
   </tr>
 </table>
 
-### My Stack
+---
+
+### My Tech Stack
 
 <div align="right">
 
