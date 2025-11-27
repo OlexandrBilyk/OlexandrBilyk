@@ -7,8 +7,6 @@ Right now, I'm diving deep into TypeScript and leveling up my skills every day.
 
 ---
 
-| <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="120" alt="Naruto GIF" /> |  
-|---|  
 |  
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
@@ -25,8 +23,7 @@ Right now, I'm diving deep into TypeScript and leveling up my skills every day.
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />  
 <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
 <img src="https://img.shields.io/badge/-Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />  
-|
-
+| <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="120" alt="Coding GIF" /> |
 ---
 
 ### GitHub Stats
