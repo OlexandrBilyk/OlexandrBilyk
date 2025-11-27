@@ -13,6 +13,9 @@
     Currently diving deep into <b>TypeScript</b> and <b>FastAPI</b>.
   </p>
 
+<br><br>
+
+  
   <h3 align="center">My Stack:</h3>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
