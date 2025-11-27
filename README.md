@@ -3,11 +3,24 @@
 
 ---
 
-I'm a Fullstack Dev who loves crafting cool, fast, and scalable web apps.
-Mostly jamming with JavaScript, TypeScript, and React on the frontend, and rocking Python frameworks on the backend.
-Always hyped to learn new tech and level up my skills every single day.
+<table>
+  <tr>
+    <td>
 
+I'm a Fullstack Dev who loves crafting cool, fast, and scalable web apps.  
+Mostly jamming with JavaScript, TypeScript, and React on the frontend, and rocking Python frameworks on the backend.  
+Always hyped to learn new tech and level up my skills every single day.  
 
+I enjoy learning new stuff, vibing to music while coding, and right now I'm diving deep into TypeScript and FastAPI.
+
+    </td>
+    <td width="150" align="right">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello GIF" width="120" />
+
+    </td>
+  </tr>
+</table>
 
 ### My Stack
 
