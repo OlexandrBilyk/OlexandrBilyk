@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right"  src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Naruto GIF" width="120" style="border-radius: 8px;" />
+<img align="right"  src="[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1uNGtlNm12Zmd1Mm9pdDNlM3U3cjNuNjE4Y3VwaTdnZmNhaHphciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iGpHt2H22k1orjgT9b/giphy.gif)" alt="Naruto GIF" width="120" style="border-radius: 8px;" />
 
 <div align="left" style="display: flex; align-items: center; justify-content: space-between; max-width: 600px; margin: auto;">
   <p style="margin: 0; padding-right: 20px; flex: 1;">
