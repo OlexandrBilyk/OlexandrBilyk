@@ -57,7 +57,7 @@
 
 <br>
 
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&show_icons=true&theme=radical" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
