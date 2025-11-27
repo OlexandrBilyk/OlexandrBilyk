@@ -1,12 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Olexandr;I+am+a+passionate+Fullstack+Developer.)](https://git.io/typing-svg)
 
-I'm a Fullstack Developer passionate about building scalable and efficient web applications.  
-I work mainly with JavaScript, TypeScript, React on the frontend, and Python frameworks on the backend.  
-I enjoy learning new technologies and improving my skills every day.
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Olexandr;I+am+a+passionate+Fullstack+Developer.)](https://git.io/typing-svg)
+</div>
 
 ---
 
-### My Tech Stack
+I'm a Fullstack Dev who loves crafting cool, fast, and scalable web apps.
+Mostly jamming with JavaScript, TypeScript, and React on the frontend, and rocking Python frameworks on the backend.
+Always hyped to learn new tech and level up my skills every single day.
+
+
+
+### My Stack
 
 <div align="right">
 
