@@ -56,7 +56,7 @@
 
 <h2>Contributions graph</h2>
 <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=OlexandrBilyk&theme=radical" alt="contributions graph" />
+  <img alt="visitor badge" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=OlexandrBilyk&bg_color=1F2140&color=85AAF2&line=CEC9E7&point=fffffe&radius=13&title_color=E4EFFD&hide_border=true" />
 </div>
 
 </center>
