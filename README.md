@@ -59,7 +59,8 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img  height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&theme=transparent&title_color=e4eFfd&bg_color=1F2140&text_color=85AAF2&border_color=b8c1ec&border_radius=13&hide_border=true" />
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=OlexandrBilyk&cache_seconds=3600&theme=transparent&title_color=e4eFfd&bg_color=1F2140&text_color=85AAF2&border_color=b8c1ec&border_radius=13&hide_border=true" />
+
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlexandrBilyk&layout=compact&theme=radical" />
 </div>
 
