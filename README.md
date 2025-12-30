@@ -14,7 +14,7 @@
     I enjoy coding cool projects<br></br>
     listening to music while working<br></br>
     leveling up my skills every day.<br></br>
-    Currently diving deep into <b>TypeScript</b> and <b>FastAPI</b>.
+    Currently diving deep into <b>TypeScript</b>
   </p>
 </div>
 
