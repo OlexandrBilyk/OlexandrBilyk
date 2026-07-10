@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<!-- <img src="https://media1.tenor.com/m/Gov4Ugov4ysAAAAC/nevzorov-bro.gif" alt="Cat" align="right" width="300" height="400"/> -->
+<img src="https://media1.tenor.com/m/Gov4Ugov4ysAAAAC/nevzorov-bro.gif" alt="Cat" align="right" width="300" height="200"/>
 
 
 <div align="left" style="display: flex; align-items: center; justify-content: space-between; max-width: 600px; margin: auto;">
